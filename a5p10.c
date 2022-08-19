@@ -1,4 +1,4 @@
-//  Assignment - N   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - N   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    More on Iterative Control Statements in C Language
 //  Assignment-0N_Problem-02: Write a program to print the table of N.
 
 #include <stdio.h>

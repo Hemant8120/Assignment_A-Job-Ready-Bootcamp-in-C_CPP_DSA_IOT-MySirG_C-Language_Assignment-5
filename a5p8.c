@@ -1,4 +1,4 @@
-//  Assignment - 5   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 5   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    More on Iterative Control Statements in C Language
 //  Assignment-05_Problem-08: Write a program to print the squares of the first N natural numbers.
 
 #include <stdio.h>

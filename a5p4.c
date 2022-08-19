@@ -1,4 +1,4 @@
-//  Assignment - 5   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 5   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    More on Iterative Control Statements in C Language
 //  Assignment-05_Problem-04: Write a program to print the first N odd natural numbers.
 
 #include <stdio.h>
